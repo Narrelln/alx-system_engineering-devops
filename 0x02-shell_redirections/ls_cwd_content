@@ -1,0 +1,16 @@
+total 88
+drwxr-xr-x  15 mac  staff  480 Mar  9 16:48 .
+drwxr-xr-x   8 mac  staff  256 Mar  8 20:56 ..
+-rwxr--r--   1 mac  staff   30 Mar  9 10:03 0-hello_world
+-rwxr--r--   1 mac  staff   29 Mar  9 10:48 1-confused_smiley
+-rwxr--r--   1 mac  staff   29 Mar  9 11:09 2-hellofile
+-rwxr--r--   1 mac  staff   43 Mar  9 11:15 3-twofiles
+-rwxr--r--   1 mac  staff   29 Mar  9 12:24 4-lastlines
+-rwxr--r--   1 mac  staff   29 Mar  9 12:34 5-firstlines
+-rwxr--r--   1 mac  staff   37 Mar  9 16:26 6-third_line
+-rwxr--r--   1 mac  staff   77 Mar  9 15:43 7-file
+-rwxr--r--   1 mac  staff   36 Mar  9 16:43 8-cwd_state
+-rw-r--r--   1 mac  staff   21 Mar  8 00:33 README.md
+-rw-r--r--   1 mac  staff   12 Mar  9 15:43 \*\\"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 mac  staff    0 Mar  9 16:48 ls_cwd_content
+-rw-r--r--   1 mac  staff    0 Mar  9 12:39 third_line
