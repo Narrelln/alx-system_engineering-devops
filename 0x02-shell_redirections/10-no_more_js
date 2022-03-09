@@ -1,1 +1,2 @@
 #!/bin/bash
+find _ -name '*_js' -type f -delete
